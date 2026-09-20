@@ -1,6 +1,8 @@
 # Crime Analysis Dashboard
 
 An interactive Power BI dashboard analysing crime patterns across countries, time of day, months, years and crime types, with a focus on resolution performance.
+<img width="1262" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/d39e436f-973f-45d9-b914-efbf41d86327" />
+
 
 ## Objective
 
